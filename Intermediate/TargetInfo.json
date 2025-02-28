@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SurvivalCraft",
+			"Path": "..\\Source\\SurvivalCraft.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SurvivalCraftEditor",
+			"Path": "..\\Source\\SurvivalCraftEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SurvivalCraft.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SurvivalCraft.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SurvivalCraftEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SurvivalCraft">
+      <UniqueIdentifier>{F09B0F4B-D9FF-3B6E-B8FC-D9393C4605B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SurvivalCraft\SurvivalCraft.Build.cs">
+      <Filter>Source\SurvivalCraft</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SurvivalCraft\SurvivalCraft.cpp">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalCraft\SurvivalCraft.h">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalCraft\SurvivalCraftCharacter.cpp">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalCraft\SurvivalCraftCharacter.h">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalCraft\SurvivalCraftGameMode.cpp">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalCraft\SurvivalCraftGameMode.h">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalCraft\SurvivalCraftPlayerController.cpp">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalCraft\SurvivalCraftPlayerController.h">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalCraft\SurvivalCraftProjectile.cpp">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalCraft\SurvivalCraftProjectile.h">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalCraft\TP_PickUpComponent.cpp">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalCraft\TP_PickUpComponent.h">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalCraft\TP_WeaponComponent.cpp">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalCraft\TP_WeaponComponent.h">
+      <Filter>Source\SurvivalCraft</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
