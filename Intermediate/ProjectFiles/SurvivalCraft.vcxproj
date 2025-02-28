@@ -109,6 +109,9 @@
     <None Include="..\..\SurvivalCraft.uproject"/>
     <None Include="..\..\Source\SurvivalCraft.Target.cs"/>
     <None Include="..\..\Source\SurvivalCraftEditor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
